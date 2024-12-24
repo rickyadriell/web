@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/rickyadriell/web#readme",
   "dependencies": {
+    "@vercel/analytics": "^1.4.1",
     "next": "15.1.2",
     "nextra": "3.0.0-alpha.42",
     "nextra-theme-blog": "3.0.0-alpha.42",
