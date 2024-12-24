@@ -7,7 +7,7 @@ const config: DocsThemeConfig = {
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link rel="icon" href="/favicon/profile.png" />
       <meta property="og:title" content="Ricky Adriell" />
-      <meta property="og:description" content="=Ricky Adriell's portfolio" />
+      <meta property="og:description" content="Ricky Adriell's portfolio" />
     </>
   ),
   logo: <span style={{ display: 'flex', alignItems: 'center', flexDirection: 'row', gap: '0.5rem' }}>
